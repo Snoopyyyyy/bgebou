@@ -28,3 +28,5 @@
 /usercache.json
 /usernamecache.json
 /icon.png
+
+/hs_err_pid*.log
