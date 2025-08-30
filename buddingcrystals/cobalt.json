@@ -1,0 +1,8 @@
+{
+  "translation": "Cobalt",
+  "texture": "minecraft:item/budding_amethyst",
+  "growth_chance": 1,
+  "dropped_item": "create:crushed_raw_cobalt",
+  "normal_drop_chance": 7,
+  "max_drop_chance": 10
+}
